@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+E:\Git Projects\Faks\Programiranje\Temperature-sensors\.metadata\.plugins\org.eclipse.jdt.core
+3381891425.index
+562230410.index
